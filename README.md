@@ -4,6 +4,15 @@
 
 Go + [Fyne](https://fyne.io/) GUI 프레임워크로 개발되었습니다.
 
+## 다운로드
+
+[Releases](https://github.com/yonsei-alumi/bank-sheet/releases/latest) 페이지에서 운영체제에 맞는 파일을 받으세요.
+
+| 파일 | 운영체제 |
+|------|----------|
+| `bank-sheet-linux-amd64` | Linux (x86_64) |
+| `bank-sheet-windows-amd64.exe` | Windows (x86_64) |
+
 ## 지원 은행
 
 - 신한은행 모임통장
